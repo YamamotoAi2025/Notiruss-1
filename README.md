@@ -6,6 +6,10 @@ My mobile office of MD04 (Honda CRZ)
 ## 📷 起動写真
 ![Nautilus1起動](https://github.com/YamamotoAi2025/Notiruss-1/blob/main/IMG_20250908_163045.jpg)
 
+![Nautilus1活用](
+https://github.com/YamamotoAi2025/Notiruss-1/blob/main/PANO_20250911_112656.jpg)
+
+
 ## 概要
 車載研究スペース「ノーチラス1号」にて、新規組み立てPCの初起動を確認。  
 BIOS画面まで正常に進み、今後の研究・開発の基盤として運用予定。
